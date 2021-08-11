@@ -1,4 +1,4 @@
-# Instalaciones recomendadas - Curso de ionic
+# Instalaciones recomendadas Entorno de Desarrollo Ionic Capacitor/Cordova
 
 ## Instalaciones Necesarias
 * [Google Chrome](https://www.google.com/chrome/)
