@@ -88,3 +88,47 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 #### Follow the [Watchman installation guide](https://facebook.github.io/watchman/docs/install.html) to compile and install Watchman from source.
 
 [Watchman](https://facebook.github.io/watchman/docs/install.html) is a tool by Facebook for watching changes in the filesystem. It is highly recommended you install it for better performance and increased compatibility in certain edge cases (translation: you may be able to get by without installing this, but your mileage may vary; installing this now may save you from a headache later).
+
+
+
+
+# Colocar la version de node que me permite trabajar con angular
+
+~~~sql
+  sudo npm install n -g
+  sudo n 14.14
+  sudo n 12.14
+~~~
+
+# Instalar Angular
+ ~~~sql
+ sudo npm install -g @angular/cli
+~~~
+# Instalar Nodejs
+Instalar nodejs
+~~~npm
+  sudo apt install nodejs
+  sudo apt install node
+  sudo apt remove nodejs
+~~~
+
+
+# Instalar angular e Ionic
+~~~npm
+   sudo npm install -g @angular/cli
+   sudo npm install -g @ionic/cli
+~~~
+# Instalar Pre Load para hacer el equipo mas rapido
+~~~npm
+sudo apt install preload
+~~~
+
+
+
+# Versiones de java instalados en el equipo
+~~~npm
+openjdk 11.0.11 2021-04-20
+OpenJDK Runtime Environment (build 11.0.11+9-Ubuntu-0ubuntu2)
+OpenJDK 64-Bit Server VM (build 11.0.11+9-Ubuntu-0ubuntu2, mixed mode, sharing)
+~~~
+# ==========================================================================
