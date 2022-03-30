@@ -35,6 +35,14 @@ git config --global user.email "Tu correo"
 
 * [The Visual Studio Code Extension for Ionic](https://marketplace.visualstudio.com/items?itemName=ionic.ionic)
 
+* [JSON to TS](https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts)
+
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+* [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
+
 ### Configuración del Bracket Pair Colorizer 2
 
 [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
