@@ -33,6 +33,8 @@ git config --global user.email "Tu correo"
 
 * [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
 
+* [The Visual Studio Code Extension for Ionic](https://marketplace.visualstudio.com/items?itemName=ionic.ionic)
+
 ### Configuración del Bracket Pair Colorizer 2
 
 [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
